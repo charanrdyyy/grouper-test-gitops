@@ -21,7 +21,7 @@ spec:
       containers:
       - name: demo-app
 
-        image: grouperdevacr001.azurecr.io/demo-app:v1
+        image: image: grouperdevacr001.azurecr.io/demo-app:latest
 
         ports:
         - containerPort: 5000
