@@ -9,4 +9,4 @@ resources:
 images:
   - name: grouperdevacr001.azurecr.io/demo-app
     newName: grouperdevacr001.azurecr.io/demo-app
-    newTag: e5cf991
+    newTag: f4b6c6a-r12
